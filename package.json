@@ -1,0 +1,14 @@
+{
+    "name": "my-awesome-app-rag",
+    "version": "0.1.0",
+    "description": "Hello world in node with express",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "Robert Gessler",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
